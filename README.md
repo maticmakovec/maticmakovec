@@ -53,3 +53,5 @@ Take a look at my [Web Creation Lab](https://github.com/maticmakovec/-Web-Creati
 
 </div>
 
+
+📋 Šolska naloga: [Postani digitalni ustvarjalec](https://github.com/maticmakovec/-Web-Creation-Lab)
